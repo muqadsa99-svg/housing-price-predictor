@@ -4,7 +4,7 @@ An end-to-end Machine Learning web app that predicts real estate prices using a 
 
 An end-to-end Machine Learning project that predicts residential housing prices using the Ames Housing Dataset. This project moves beyond simple linear regression by implementing a **Stacking Regressor** ensemble technique to minimize error and maximize predictive power.
 
-**[🔴 Live Demo](LINK_TO_YOUR_STREAMLIT_APP_HERE)**
+**[🔴 Live Demo](https://housing-price-predictor-deployed-by-tooba.streamlit.app/)**
 
 ## 🚀 Key Features
 * **Ensemble Modeling:** Combines the strengths of **Ridge**, **Lasso**, **XGBoost**, and **LightGBM** using a Stacking Regressor.
